@@ -1,0 +1,1 @@
+Devuelve por consola un número aleatorio entre 0 y 1 y dice si es mayor o menor a 0,5.
